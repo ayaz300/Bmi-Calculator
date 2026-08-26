@@ -1,14 +1,59 @@
-# 🏋️‍♂️ Responsive BMI Calculator
+# 🏋️‍♂️ BMI Calculator
 
-A clean, modern, and fully responsive Body Mass Index (BMI) calculator web app. It allows users to input their height (in feet & inches) and weight (in kg) to accurately calculate their BMI and determine their health category.
+A simple, responsive, and user-friendly Body Mass Index (BMI) calculator built using HTML, CSS, and JavaScript. It calculates BMI based on height (feet & inches) and weight (kg), and provides immediate feedback on health categories.
 
-## ✨ Features
-* 📏 **Dual Height Input:** Supports feet and inches for easy measurement.
-* ⚖️ **Instant BMI Calculation:** Dynamically computes BMI and categorizes it (Underweight, Normal, Overweight, Obese).
-* 🎨 **Clean & Responsive UI:** Designed with CSS for smooth user experience across mobile and desktop devices.
-* ⚡ **Input Validation:** Handles empty or negative values to prevent errors.
+✨ Features
 
-## 🛠️ Tech Stack
-* **HTML5:** Structure and markup
-* **CSS3:** Custom styling and responsive design
-* **JavaScript (ES6):** DOM manipulation and calculation logic
+📏 Height input in Feet and Inches
+⚖️ Weight input in Kilograms
+📊 Instant BMI Calculation with 1-decimal precision
+🏷️ Health Category Categorization (Underweight, Normal, Overweight, Obese)
+💡 Interactive UI with hidden dynamic units on input focus
+📱 Fully Responsive design for mobile and desktop
+⚠️ Built-in input validation for empty and invalid inputs
+
+🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+📂 Project Structure
+
+BMI-Calculator/
+│── index.html
+│── style.css
+│── script.js
+└── README.md
+
+🚀 Getting Started
+
+1. Clone the repository:
+   git clone https://github.com/ayaz300/bmi-calculator.git
+
+2. Navigate to the project folder:
+   cd bmi-calculator
+
+3. Open index.html in your web browser.
+
+No additional installation or dependencies are required!
+
+📸 Screenshot
+
+Add your screenshot link here (e.g., https://github.com/ayaz300/bmi-calculator/blob/main/screenshot.png)
+
+🎯 Future Improvements
+
+- Dynamic text color changing based on BMI category
+- Ideal weight range recommendations
+- Dark / Light mode toggle
+- Calculation history feature
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.
+
+👨‍💻 Author
+
+Your Name
+GitHub: https://github.com/ayaz300
