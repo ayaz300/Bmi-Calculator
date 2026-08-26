@@ -40,7 +40,7 @@ No additional installation or dependencies are required!
 
 📸 Screenshot
 
-Add your screenshot link here (e.g., https://github.com/ayaz300/bmi-calculator/blob/main/screenshot.png)
+Add your screenshot link here (e.g., https://github.com/ayaz300/bmi-calculator/blob/main/BMI%20Calculator.png)
 
 🎯 Future Improvements
 
