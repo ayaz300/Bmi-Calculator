@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <div class="main">
+            <div class="input-box">
+                <input id="height_feet" type="number" placeholder="Height (Feet)" required>
+                <span class="unit">feet</span>
+            </div>
+
+            <div class="input-box">
+                <input id="height_inches" type="number" placeholder="Height (Inches)">
+                <span class="unit">inches</span>
+            </div>
+
+            <div class="input-box">
+                <input id="weight" type="number" placeholder="Weight (kg)" required>
+                <span class="unit">kg</span>
+            </div>
+            <button onclick="calculate()">Calculate BMI</button>
+            <h3 id="result"></h3>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
