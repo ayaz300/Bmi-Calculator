@@ -17,9 +17,9 @@ function calculate() {
 
     if(bmi < 18.5) {
         result.innerHTML = `BMI : ${bmi.toFixed(1)} (Underweight)`;
-    } else if(bmi >= 18.5 && bmi <= 24.9) {
+    } else if(bmi >= 18.5 && bmi < 25) {
         result.innerHTML = `BMI : ${bmi.toFixed(1)} (Normal)`;
-    } else if(bmi >= 25 && bmi <= 29.9) {
+    } else if(bmi >= 25 && bmi < 30) {
         result.innerHTML = `BMI : ${bmi.toFixed(1)} (Overweight)`;
     } else if (bmi >= 30) {
         result.innerHTML = `BMI : ${bmi.toFixed(1)} (Obese)`;
