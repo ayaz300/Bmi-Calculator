@@ -1,3 +1,5 @@
+<img width="1279" height="719" alt="QR-Code-Generator" src="https://github.com/ayaz300/Bmi-Calculator/blob/main/BMI%20Calculator.png" />
+
 # 🏋️‍♂️ BMI Calculator
 
 A simple, responsive, and user-friendly Body Mass Index (BMI) calculator built using HTML, CSS, and JavaScript. It calculates BMI based on height (feet & inches) and weight (kg), and provides immediate feedback on health categories.
